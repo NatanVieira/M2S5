@@ -1,0 +1,15 @@
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\M2S5.exe
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\M2S5.deps.json
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\M2S5.runtimeconfig.json
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\M2S5.dll
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\ref\M2S5.dll
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\bin\Debug\net6.0\M2S5.pdb
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.csproj.AssemblyReference.cache
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.AssemblyInfoInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.AssemblyInfo.cs
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.csproj.CoreCompileInputs.cache
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.dll
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\ref\M2S5.dll
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.pdb
+C:\Users\natanael.vieira\Desktop\DIH\5Semana\M2S5\M2S5\M2S5\obj\Debug\net6.0\M2S5.genruntimeconfig.cache
