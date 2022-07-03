@@ -1,4 +1,5 @@
-﻿using M2S5.Entidades;
+﻿using System.Text.RegularExpressions;
+using M2S5.Entidades;
 
 namespace M2S5;
 
@@ -90,11 +91,35 @@ public class Program {
             Console.WriteLine(ex.Message);
         }
         #endregion
+
+        #region Exercicio 06
+        Funcionario func = new Funcionario("Natanael1","1234Nar");
+
+        try {
+            ValidaID(func.id);
+            ValidaNome(func.nome);
+            Console.WriteLine($"Nome: {func.nome}, ID: {func.id}");
+        } catch(Exception ex) {
+            Console.WriteLine(ex.Message);
+        }
+        #endregion
     }
 
     private static void ImprimeNomeFuncionario(Funcionario func) {
         if(func == null)
             throw new NullReferenceException("O objeto e nulo");
         Console.WriteLine(func.nome);
+    }
+
+    private static void ValidaID(string id) {
+        Regex rg = new Regex("^[0-9]+$");
+        if(!rg.IsMatch(id))
+            throw new Exception("ID inválido");
+    }
+
+    private static void ValidaNome(string nome) {
+        Regex rg = new Regex("^[a-zA-Z]+$");
+        if(!rg.IsMatch(nome))
+            throw new Exception("Nome Inválido");
     }
 }
