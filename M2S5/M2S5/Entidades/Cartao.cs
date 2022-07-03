@@ -6,7 +6,7 @@
 
         public Cartao() { }
 
-        public double VerificarValorTaxa(double saldo, double valorTaxa) {
+        public virtual double VerificarValorTaxa(double saldo, double valorTaxa) {
             return saldo * (valorTaxa / 100);
         }
     }
