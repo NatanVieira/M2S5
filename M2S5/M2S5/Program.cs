@@ -71,5 +71,12 @@ public class Program {
 
 
         #endregion
+
+        #region Exercicio 3
+
+        Cartao cartaoEx3 = new CartaoVA();
+        CartaoVA cartao2Ex3 = new Cartao();
+
+        #endregion
     }
 }
